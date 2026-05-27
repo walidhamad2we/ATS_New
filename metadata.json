@@ -1,0 +1,8 @@
+{
+  "name": "بوابة التقديم الموحد",
+  "description": "نظام متكامل لاستقبال طلبات الطلاب، وإدارة الاختبارات، ومتابعة الطلبات وتصحيح الاختبارات المقالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

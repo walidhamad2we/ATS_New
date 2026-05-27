@@ -1,0 +1,5 @@
+cd "C:\Users\Dell\Desktop\WE\google AI Studio\ATS_New"
+
+npm run build
+
+firebase deploy
