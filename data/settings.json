@@ -1,0 +1,36 @@
+{
+  "spreadsheetId": "1KemNO7WCr5j0P_JTjWyIDSnkt4w3NfYg0ubqYc0waLk",
+  "googleDriveFolderId": "1d1y5cA4dW4PNUqKnRDbiSYO50NvjTT1w",
+  "schoolName": "منظومة إدارة المترشحين",
+  "activeFormTemplateId": "template_1",
+  "formTemplates": [
+    {
+      "id": "template_1",
+      "name": "استمارة القبول الأساسية",
+      "spreadsheetId": "1KemNO7WCr5j0P_JTjWyIDSnkt4w3NfYg0ubqYc0waLk",
+      "filesFolderId": "1d1y5cA4dW4PNUqKnRDbiSYO50NvjTT1w",
+      "formFields": [
+        { "id": "fullName", "label": "الاسم رباعي" },
+        { "id": "province", "label": "المحافظة" },
+        { "id": "dob", "label": "تاريخ الميلاد" },
+        { "id": "nationalId", "label": "الرقم القومي" },
+        { "id": "score", "label": "المجموع" },
+        { "id": "fatherName", "label": "اسم ولي الأمر" },
+        { "id": "fatherJob", "label": "عمل ولي الأمر" },
+        { "id": "motherName", "label": "اسم الأم" },
+        { "id": "motherJob", "label": "عمل الأم" },
+        { "id": "phone", "label": "رقم الموبايل" },
+        { "id": "whatsapp", "label": "رقم الواتس" },
+        { "id": "status", "label": "حالة الطلب" },
+        { "id": "birthCertificate", "label": "شهادة الميلاد" },
+        { "id": "personalPhoto", "label": "صورة شخصية للطالب" },
+        {
+          "id": "prepCertificate",
+          "label": "صورة شهادة إتمام المرحلة الإعدادية"
+        },
+        { "id": "parentNationalId", "label": "صورة الرقم القومي لولي الأمر" },
+        { "id": "desiredBranch", "label": "الشعبة المفضلة" }
+      ]
+    }
+  ]
+}
